@@ -1,0 +1,1 @@
+These are the 13F-HR files in .txt form (which includes metadata) and the .csv form (for data analysis), with the earliest being from 2012. If anyone could parse the .txt files before 2012 (which have a very inconsistent format), I'd really appreciate that! 
